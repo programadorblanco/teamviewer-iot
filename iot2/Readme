@@ -1,0 +1,8 @@
+1. Download any of Raspbian OS image.
+2. Write the OS image to your microSD card (use Win32 Disk Imager or similar tools).
+3. Find the newly created boot partition/device.
+4. Extract the downloaded configuration and copy to boot partition on MicroSD card.
+5. Put the microSD card in your Pi and boot up.
+6. System boot may take a while. Wait for a few minutes and check your device list from inventory tab to see the newly added Pi.
+
+You can find raspbian images at https://www.raspberrypi.org/downloads/raspbian/ URL.
